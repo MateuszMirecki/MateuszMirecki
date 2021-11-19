@@ -9,4 +9,4 @@ MateuszMirecki/MateuszMirecki is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-Link to page hostet by github https://github.com/MateuszMirecki/MateuszMirecki.github.io.git
+Link to page hostet by github https://mateuszmirecki.github.io./
