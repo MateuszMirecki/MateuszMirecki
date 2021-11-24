@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Link to page hostet by github https://mateuszmirecki.github.io./
-Lin to page hosted by azure https://instruction.azurewebsites.net
+
+Linl to page hosted by azure https://instruction.azurewebsites.net
