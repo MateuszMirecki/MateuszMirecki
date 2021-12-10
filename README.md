@@ -9,6 +9,8 @@ MateuszMirecki/MateuszMirecki is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+Amazing person who'd connected oranges and integrals: https://github.com/MateuszMirecki/peel_spiral
+
 Link to page hostet by github https://mateuszmirecki.github.io./
 
 Linl to page hosted by azure https://instruction.azurewebsites.net
