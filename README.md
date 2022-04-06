@@ -12,6 +12,5 @@ You can click the Preview link to take a look at your changes.
 Amazing person who'd connected oranges and integrals: https://github.com/MateuszMirecki/peel_spiral
 Math attached to it: https://arxiv.org/pdf/1202.3033v1.pdf
 
-Link to page hostet by github https://mateuszmirecki.github.io./
+Link to my page hosted by github https://mateuszmirecki.github.io./
 
-Linl to page hosted by azure https://instruction.azurewebsites.net
